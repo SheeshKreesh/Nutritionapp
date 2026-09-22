@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Food Friends",
+    "slug": "food-friends",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pet-baby.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/pet-baby.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pet-baby.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/pet-baby.png"
+    }
+  }
+}
